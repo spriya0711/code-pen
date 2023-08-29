@@ -1,7 +1,7 @@
 {
   "name": "codepen",
   "version": "0.1.0",
-  "homepage": "https://spriya0711.github.io/code-name",
+  "homepage": "https://spriya0711.github.io/code-pen",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.1",
